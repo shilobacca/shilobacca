@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm just getting started learning how to code.
+I had a crazy idea that learning how to use GitHub at the same time would be clever.
+
+How hard could it be... 🤓
