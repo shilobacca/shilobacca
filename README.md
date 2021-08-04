@@ -18,3 +18,6 @@ I'm just getting started learning how to code.
 I had a crazy idea that learning how to use GitHub at the same time would be clever.
 
 How hard could it be... 🤓
+
+
+<a class="u-url" href="https://www.shilobacca.com/blank-gh-site.html" rel="me">indieauth attempt</a>
