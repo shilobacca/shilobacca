@@ -19,5 +19,3 @@ I had a crazy idea that learning how to use GitHub at the same time would be cle
 
 How hard could it be... 🤓
 
-
-<a class="u-url" href="https://www.shilobacca.com/blank-gh-site.html" rel="me">indieauth attempt</a>
